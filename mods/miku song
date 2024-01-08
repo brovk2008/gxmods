@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "miku",
+    "description": "op song that u will love",
+    "version": "1.1",
+    "icons":
+    {
+        "512": "miku.jpeg"
+    },
+    "developer":
+    {
+        "name": "Opera Software"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+
+            "background_music":
+            [
+                "miku.mp3"
+            ]
+       }
+    }
+}
